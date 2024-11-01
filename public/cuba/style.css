@@ -1,0 +1,22 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #ffebcd;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #444;
+}
+
+.btn {
+    background-color: #f4a261;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #e76f51;
+}
